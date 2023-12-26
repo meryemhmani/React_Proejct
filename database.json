@@ -1,0 +1,205 @@
+{
+  "produits": [
+    {
+      "reference": "Livre5846",
+      "designation": "Il ne pouvait en être autrement",
+      "prixAchat": "11.000",
+      "prixVente": "34.500",
+      "qtestock": 49,
+      "imageartpetitf": "images/image1.jpg",
+      "id": 2
+    },
+    {
+      "reference": "Livre4826",
+      "designation": "Des pensées sans conter",
+      "prixAchat": "9.800",
+      "prixVente": "22.000",
+      "qtestock": 61,
+      "imageartpetitf": "images/image2.jpg",
+      "id": 3
+    },
+    {
+      "reference": "Livre4235",
+      "designation": "MIRIFIQUE",
+      "prixAchat": "14.800",
+      "prixVente": "29.500",
+      "qtestock": 32,
+      "imageartpetitf": "images/image3.jpg",
+      "id": 4
+    },
+    {
+      "reference": "Liv7962",
+      "designation": "La Disparue d’El Asnam",
+      "prixAchat": "15.400",
+      "prixVente": "33.800",
+      "qtestock": 35,
+      "imageartpetitf": "images/image4.jpg",
+      "id": 5
+    },
+    {
+      "reference": "Liv5431",
+      "designation": "Le crime et l’enfant",
+      "prixAchat": "12.600",
+      "prixVente": "28.500",
+      "qtestock": 44,
+      "imageartpetitf": "images/image5.jpg",
+      "id": 6
+    },
+    {
+      "reference": "Liv3952",
+      "designation": "Fragments d’expérience",
+      "prixAchat": "13.000",
+      "prixVente": "27.600",
+      "qtestock": 42,
+      "imageartpetitf": "images/image7.jpg",
+      "id": 7
+    },
+    {
+      "reference": "Liv7529",
+      "designation": "Figures de style – Textes et photos",
+      "prixAchat": "12.300",
+      "prixVente": "25.000",
+      "qtestock": 41,
+      "imageartpetitf": "images/image6.jpg",
+      "id": 8
+    },
+    {
+      "reference": "Liv7426",
+      "designation": "Secrets D’une Femme",
+      "prixAchat": "9.600",
+      "prixVente": "20.500",
+      "qtestock": 53,
+      "imageartpetitf": "images/image8.jpg",
+      "id": 9
+    },
+    {
+      "reference": "Liv6824",
+      "designation": "Trajectoires – Au fil du temps, au gré du lieu",
+      "prixAchat": "8.700",
+      "prixVente": "19.900",
+      "qtestock": 48,
+      "imageartpetitf": "images/image10.jpg",
+      "id": 10
+    },
+    {
+      "reference": "Liv8462",
+      "designation": "À l’écoute de la peau",
+      "prixAchat": "8.000",
+      "prixVente": "18.600",
+      "qtestock": 48,
+      "imageartpetitf": "images/image11.jpg",
+      "id": 11
+    },
+    {
+      "reference": "Liv3841",
+      "designation": "Dieu est mort",
+      "prixAchat": "9.400",
+      "prixVente": "22.000",
+      "qtestock": 29,
+      "imageartpetitf": "images/image13.jpg",
+      "id": 13
+    },
+    {
+      "reference": "Liv2894",
+      "designation": "Le temps des cerises",
+      "prixAchat": "8.400",
+      "prixVente": "17.900",
+      "qtestock": 42,
+      "imageartpetitf": "images/image14.jpg",
+      "id": 14
+    },
+    {
+      "reference": "Liv7553",
+      "designation": "De l’autre côté de la rue",
+      "prixAchat": "12.000",
+      "prixVente": "26.800",
+      "qtestock": 37,
+      "imageartpetitf": "images/image15.jpg",
+      "id": 15
+    },
+    {
+      "reference": "Liv4391",
+      "designation": "Les enfants de l’ombre",
+      "prixAchat": "9.000",
+      "prixVente": "20.700",
+      "qtestock": 34,
+      "imageartpetitf": "images/image16.jpg",
+      "id": 16
+    },
+    {
+      "reference": "Liv9537",
+      "designation": "La joie d’un pasteur au service des pauvres",
+      "prixAchat": "10.300",
+      "prixVente": "26.000",
+      "qtestock": 35,
+      "imageartpetitf": "images/image17.jpg",
+      "id": 17
+    },
+    {
+      "reference": "Liv6825",
+      "designation": "Un homme tranquille",
+      "prixAchat": "8.500",
+      "prixVente": "19.700",
+      "qtestock": 38,
+      "imageartpetitf": "images/image18.jpg",
+      "id": 18
+    },
+    {
+      "reference": "Liv7293",
+      "designation": "De sable et d’étoiles",
+      "prixAchat": "11.000",
+      "prixVente": "26.500",
+      "qtestock": 46,
+      "imageartpetitf": "images/image19.jpg",
+      "id": 19
+    },
+    {
+      "reference": "book",
+      "designation": "hhhhhh",
+      "marque": "jfjfj",
+      "prixAchat": "2323",
+      "prixVente": "2323",
+      "qtestock": "233",
+      "imageartpetitf": "im1",
+      "id": 20
+    },
+    {
+      "reference": "",
+      "designation": "",
+      "marque": "",
+      "prixAchat": "",
+      "prixVente": "",
+      "qtestock": "",
+      "imageartpetitf": "",
+      "id": 21
+    },
+    {
+      "reference": "",
+      "designation": "",
+      "marque": "",
+      "prixAchat": "",
+      "prixVente": "",
+      "qtestock": "",
+      "imageartpetitf": "",
+      "id": 22
+    },
+    {
+      "reference": "hghg",
+      "designation": "hfg",
+      "marque": "ghfh",
+      "prixAchat": "455",
+      "prixVente": "545",
+      "qtestock": "45354",
+      "imageartpetitf": "im1",
+      "id": 23
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "name": "Maryem",
+      "tel": "95930036",
+      "mail": "meryemhmani02@gmail.com"
+    }
+  ]
+}
